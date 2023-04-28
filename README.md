@@ -13,7 +13,7 @@
 - I’m already familiar with ML frameworks like Tensorflow, Keras, OpenCV, Sklearn, Numpy, Pandas, Matplotlib etc and currently focusing on Deep Learning. 
 
 ## 💻 Tech Stack:
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,jquery,java,c,cpp,py,visualstudio,figma,sqlite,nodejs,r,linux,flask)](github.com/shivam-singla)
+[![](https://skillicons.dev/icons?i=html,css,js,jquery,java,c,cpp,py,visualstudio,figma,sqlite,nodejs,r,linux,flask)](https://github.com/shivam-singla)
 
 ## 📊 GitHub Stats:
 
