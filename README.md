@@ -2,7 +2,6 @@
   Shivam Singla
 </h1>
 
-<img align="right" src="https://user-images.githubusercontent.com/95306965/234339729-587d808b-9982-4371-90b6-95293cb94cbc.png" width=400 />
 
 ## 💭 About Me:
 
